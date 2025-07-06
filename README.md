@@ -1,4 +1,4 @@
-# 🌱 The Bean Code
+# The Bean Code
 
 **We make technology work for you!**
 
@@ -7,7 +7,7 @@ We transform ideas into impactful tools that simplify workflows, accelerate grow
 
 ---
 
-## 🚀 Services We Offer
+## Services We Offer
 
 1. **AI Chatbot & Virtual Assistant Development**  
 2. **Business Process Automation (RPA)**  

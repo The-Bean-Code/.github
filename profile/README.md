@@ -9,15 +9,15 @@ We transform ideas into impactful tools that simplify workflows, accelerate grow
 
 ## Services We Offer
 
-1. **AI Chatbot & Virtual Assistant Development**  
-2. **Business Process Automation (RPA)**  
-3. **Data Analytics & AI Dashboards**  
-4. **Custom AI System Development**  
-5. **Intelligent Web Development**  
-6. **Smart Mobile App Development**  
-7. **AI-Driven Ecommerce Solutions**  
-8. **Custom Product Development**  
-9. **Digital Marketing**
+1. **AI Chatbots & Virtual Assistants**  
+2. **Digital Marketing**  
+3. **AI Application Development**  
+4. **Graphic Design**  
+5. **Workflow Automation (RPA)**  
+6. **E-Store Solutions**  
+7. **Smart Website Development**  
+8. **Mobile App Development**  
+9. **Custom Software Development**
 
 ---
 

@@ -23,7 +23,7 @@ We transform ideas into impactful tools that simplify workflows, accelerate grow
 
 ## Work With Us
 
-We’re open to collaborations, internships, client projects, and partnerships with educational institutions.
+We’re open to collaborations, client projects, and partnerships with educational institutions.
 
 📬 **Reach us at:** [connect@thebeancode.com](mailto:connect@thebeancode.com)  
 🌐 **Website:** [www.thebeancode.com](https://www.thebeancode.com)

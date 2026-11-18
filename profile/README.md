@@ -1,29 +1,45 @@
 # The Bean Code
 
-**We make technology work for you!**
+### We Make Technology Work for You!
 
-The Bean Code builds smart digital solutions that make your work easier — powered by AI, design, and purpose.  
-We transform ideas into impactful tools that simplify workflows, accelerate growth, and enhance user experience.
+The Bean Code builds smart digital solutions that make your work easier — powered by technology, innovation, and purpose.
 
----
+We transform ideas into impactful solutions that simplify workflows, improve efficiency, and enhance user experiences.
+
+## Our Products
+
+We build software products designed to address real-world challenges:
+
+- **ATLAS:** A modular Hospital Management System designed to streamline healthcare operations.
+- **ILCMS:** An Integrated Learning and College Management System for educational institutions.
+- **AEGIS:** An AI-powered video surveillance and security analytics platform.
 
 ## Services We Offer
 
-1. **AI Chatbots & Virtual Assistants**  
-2. **Digital Marketing**  
-3. **AI Application Development**  
-4. **Graphic Design**  
-5. **Workflow Automation (RPA)**  
-6. **E-Store Solutions**  
-7. **Smart Website Development**  
-8. **Mobile App Development**  
-9. **Custom Software Development**
+We provide technology solutions tailored to different business needs, including:
 
----
+- AI Chatbots & Virtual Assistants
+- Digital Marketing
+- AI Application Development
+- Graphic Design
+- Workflow Automation (RPA)
+- E-Store Solutions
+- Smart Website Development
+- Mobile App Development
+- Custom Software Development
+- SaaS Development
+- Cloud Application Development
+
+## Research & Innovation
+
+We explore Artificial Intelligence and Machine Learning through independent research initiatives in healthcare analytics, educational intelligence, computer vision, predictive modelling, and anomaly detection.
+
+Our focus is on developing new methodologies, publishing research, and turning innovative ideas into practical tools and technologies.
 
 ## Work With Us
 
-We’re open to collaborations, client projects, and partnerships with educational institutions.
+We're open to collaborations, client projects, research partnerships, and opportunities to build meaningful technology.
 
-📬 **Reach us at:** [connect@thebeancode.com](mailto:connect@thebeancode.com)  
-🌐 **Website:** [www.thebeancode.com](https://www.thebeancode.com)
+📬 **Email:** connect@thebeancode.com  
+🌐 **Website:** https://thebeancode.com  
+💼 **LinkedIn:** https://www.linkedin.com/company/the-bean-code/

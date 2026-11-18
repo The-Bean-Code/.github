@@ -2,9 +2,9 @@
 
 ### We Make Technology Work for You!
 
-The Bean Code builds smart digital solutions that make your work easier — powered by technology, innovation, and purpose.
+The Bean Code turns ideas into intelligent technology. We build software products and custom digital solutions that solve real-world problems across healthcare, education, security and beyond.
 
-We transform ideas into impactful solutions that simplify workflows, improve efficiency, and enhance user experiences.
+Through our products — ATLAS, ILCMS and AEGIS — alongside our software development services and AI/ML research, we bring together engineering and innovation to create technology that makes a difference.
 
 ## Our Products
 

@@ -27,8 +27,6 @@ We provide technology solutions tailored to different business needs, including:
 - Smart Website Development
 - Mobile App Development
 - Custom Software Development
-- SaaS Development
-- Cloud Application Development
 
 ## Research & Innovation
 
